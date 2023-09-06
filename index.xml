@@ -2,6 +2,6 @@
 <dataIndex battleScribeVersion="2.03" name="MDNR-WHFB6" indexUrl="https://github.com/masdepablo/MDNR-WHFB6/raw/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="MDNR_WHFB_6_-_v1.0.gstz" dataType="gamesystem" dataId="76a4-9f6e-de70-e9f8" dataName="MDNR (WFFB 6ª Edición)" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="MDNR_Reinos_del_Caos_Bestias_v5.catz" dataType="catalogue" dataId="3c7d-2907-6b62-936e" dataName="MDNR: Reinos del Caos: Bestias " dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="MDNR_Reinos_del_Caos_Bestias_v5.catz" dataType="catalogue" dataId="fe38-3594-2c60-6283" dataName="MDNR: Reinos del Caos: Bestias" dataBattleScribeVersion="2.03" dataRevision="1"/>
   </dataIndexEntries>
 </dataIndex>
