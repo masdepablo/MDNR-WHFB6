@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.03" name="MDNR-WHFB6" indexUrl="https://github.com/masdepablo/MDNR-WHFB6/raw/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="MDNR-WHFB6.gstz" dataType="gamesystem" dataId="0f53-c818-48d2-1027" dataName="MDNR-WHFB6" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR-WHFB6.gstz" dataType="gamesystem" dataId="22f2-2dc2-493c-40e8" dataName="MDNR-WHFB6" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Reyes_Funerarios_MDN.catz" dataType="catalogue" dataId="93c4-b6ad-9da5-4afc" dataName="Reyes Funerarios MDN" dataBattleScribeVersion="2.03" dataRevision="11"/>
     <dataIndexEntry filePath="Hombres_Lagarto_MDN.catz" dataType="catalogue" dataId="c104-5906-70e9-def1" dataName="Hombres lagarto MDN" dataBattleScribeVersion="2.03" dataRevision="10"/>
     <dataIndexEntry filePath="Mercenarios_MDN.catz" dataType="catalogue" dataId="7ab5-64c7-4c6f-e0e1" dataName="Mercenarios MDN" dataBattleScribeVersion="2.03" dataRevision="7"/>
