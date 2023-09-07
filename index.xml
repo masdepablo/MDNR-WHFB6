@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="MDNR-WHFB6" indexUrl="https://github.com/masdepablo/MDNR-WHFB6/raw/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="MDNR-WHFB6" indexUrl="https://raw.githubusercontent.com/masdepablo/MDNR-WHFB6/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="MDNR-WHFB6.gstz" dataType="gamesystem" dataId="22f2-2dc2-493c-40e8" dataName="MDNR-WHFB6" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Reyes_Funerarios_MDN.catz" dataType="catalogue" dataId="5aec-3141-23f3-e465" dataName="Reyes Funerarios MDNR" dataBattleScribeVersion="2.03" dataRevision="1"/>
@@ -9,12 +9,12 @@
     <dataIndexEntry filePath="Orcos_Goblins_MDN.catz" dataType="catalogue" dataId="a824-22be-2287-4aa6" dataName="Orcos y Goblins MDN" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Monstruos_Arcanos.catz" dataType="catalogue" dataId="ef89-95c4-e8a5-078d" dataName="Monstruos Arcanos" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Reinos_Ogros_MDN_2020.catz" dataType="catalogue" dataId="98de-6eb5-ce3a-cb72" dataName="Reinos Ogros MDNR" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Reinos_del_Caos_MDN.catz" dataType="catalogue" dataId="437e-5666-8487-52c2" dataName="Reinos del Caos MDNR" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Condes_Vampiro_MDN.catz" dataType="catalogue" dataId="8538-60ee-f678-6207" dataName="Condes Vampiro MND" dataBattleScribeVersion="2.03" dataRevision="15"/>
+    <dataIndexEntry filePath="Reinos_del_Caos_MDN.catz" dataType="catalogue" dataId="437e-5666-8487-52c2" dataName="Reinos del Caos MDNR" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Altos_Elfos_MND.catz" dataType="catalogue" dataId="7820-49c5-9bc7-2c0b" dataName="Altos Elfos MDNR" dataBattleScribeVersion="2.03" dataRevision="8"/>
     <dataIndexEntry filePath="Skaven_MDN.catz" dataType="catalogue" dataId="4889-753c-5852-0b41" dataName="Skaven MDNR" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Enanos_del_Caos_MDN.catz" dataType="catalogue" dataId="bbaa-de71-b6f8-1a2f" dataName="Enanos del Caos MDN" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Elfos_Silvanos_MDN.catz" dataType="catalogue" dataId="0015-fe09-389e-8c78" dataName="Elfos Silvanos MDN" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Enanos_del_Caos_MDN.catz" dataType="catalogue" dataId="bbaa-de71-b6f8-1a2f" dataName="Enanos del Caos MDN" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Imperio_MDN.catz" dataType="catalogue" dataId="30e6-4a43-eee5-8039" dataName="Imperio MDN" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Elfos_Oscuros_MDN.catz" dataType="catalogue" dataId="89da-74fa-aedf-f481" dataName="Elfos Oscuros MDN" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Bretonia_MDN_2020.catz" dataType="catalogue" dataId="2e38-5c93-851a-3d6b" dataName="Bretonia MDNR" dataBattleScribeVersion="2.03" dataRevision="14"/>
